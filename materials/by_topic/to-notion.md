@@ -1,6 +1,6 @@
 # to-notion：专题材料包
 
-生成时间：2026-06-26T19:01:59
+生成时间：2026-07-07T09:23:49
 
 筛选条件：主题 = to-notion
 
@@ -8,26 +8,23 @@
 
 | 序号 | 中文题名 | 年份 | 来源 | 主题 | 用途 | 对应章节 | 优先级 |
 |---:|---|---|---|---|---|---|---|
-| 1 | 感知人力资源管理实践、敬业度与员工行为之间的联系：一个有调节的中介模型 | 2013 | The International Journal of Human Resource Management | to-notion |  |  |  |
-| 2 | 公共研究资助中的配置效率：文献计量学能否提供帮助？ | 2009 | Research Policy | to-notion |  |  |  |
-| 3 | 消费者对市场全球化的态度：结构、前因与后果 | 2006 | International Journal of Research in Marketing | to-notion |  |  |  |
-| 4 | 品牌关系谱系：品牌架构挑战的关键 | 2000 | California Management Review | to-notion | 概念定义 | 研究方法 |  |
-| 5 | 跨产品与市场的品牌资产测量 | 1996 | California Management Review | to-notion | 机制解释 | 理论基础 |  |
-| 6 | 利用企业品牌 |  |  | to-notion | 概念定义 | 文献综述 |  |
+| 1 | 理论建构与理论检验的趋势：基于《管理学会期刊》五十年的研究 | 2007 | Academy of Management Journal | to-notion |  |  |  |
+| 2 | 管理领域研究中的方法论契合度 | 2007 | Academy of Management Review | to-notion |  |  |  |
+| 3 | 从案例研究中构建理论 |  |  | to-notion |  |  |  |
 
 ---
 
 ## 二、文献材料详情
 
-# 1. 感知人力资源管理实践、敬业度与员工行为之间的联系：一个有调节的中介模型
+# 1. 理论建构与理论检验的趋势：基于《管理学会期刊》五十年的研究
 
 ## 1. 基本信息
 
-- **作者**：K. Alfes; A. D. Shantz; C. Truss; E. C. Soane
-- **年份**：2013
-- **来源**：The International Journal of Human Resource Management
-- **DOI**：10.1080/09585192.2012.679950
-- **Notion 链接**：https://app.notion.com/p/The-link-between-perceived-human-resource-management-practices-engagement-and-employee-behaviour-a-38be8c8a654d815c8b72cca5fd0666fb
+- **作者**：Jason A. Colquitt; Cindy P. Zapata-Phelan
+- **年份**：2007
+- **来源**：Academy of Management Journal
+- **DOI**：10.5465/amj.2007.28165855
+- **Notion 链接**：https://app.notion.com/p/Trends-in-Theory-Building-and-Theory-Testing-A-Five-Decade-Study-of-the-i-Academy-of-Management-Jo-395e8c8a654d815583dedaab8009b7b9
 
 ## 2. 分类信息
 
@@ -38,21 +35,117 @@
 
 ## 3. 摘要
 
-**中文题名**：感知人力资源管理实践、敬业度与员工行为之间的联系：一个有调节的中介模型
+**中文题名**：理论建构与理论检验的趋势：基于《管理学会期刊》五十年的研究
 
-**英文题名**：The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model
+**英文题名**：Trends in Theory Building and Theory Testing: A Five-Decade Study of the <i>Academy of Management Journal</i>
 
 ### 中文摘要
 
-本研究有助于深化我们对人力资源管理实践与行为结果之间中介和调节过程的理解。我们构建并检验了一个调节中介模型，将感知到的人力资源管理实践与组织公民行为和离职意向联系起来。基于社会交换理论，本模型认为，感知到的人力资源管理实践对这两个结果变量的影响由员工敬业度水平所中介，而员工敬业度与这两个结果变量之间的关系受到感知到的组织支持和领导—成员交换的调节。总体而言，来自英国一家服务业组织297名员工的数据支持了该模型。这表明，作为敬业度结果的积极行为结果的实施，在很大程度上取决于更广泛的组织氛围以及员工与其直线经理的关系。文中讨论了对实践的启示以及未来研究方向。
+（空）
 
 ### 原文摘要
 
-This study contributes to our understanding of the mediating and moderating processes through which human resource management practices are linked with behavioural outcomes. We developed and tested a moderated mediation model linking perceived human resource management practices to organisational citizenship behaviour and turnover intentions. Drawing on social exchange theory, our model posits that the effect of perceived human resource management practices on both outcome variables is mediated by levels of employee engagement, while the relationship between employee engagement and both outcome variables is moderated by perceived organisational support and leader-member exchange. Overall, data from 297 employees in a service sector organisation in the UK support this model. This suggests that the enactment of positive behavioural outcomes, as a consequence of engagement, largely depends on the wider organisational climate and employees’ relationship with their line manager. Implications for practice and directions for future research are discussed.
+（空）
 
 ## 4. Notion 正文笔记
 
-（空）
+## 0. 文献名称
+
+- TRENDS IN THEORY BUILDING AND THEORY TESTING: A  FIVE-DECADE STUDY OF THE ACADEMY OF  MANAGEMENT JOURNAL
+
+## 1. 研究并解决的问题
+
+- 研究问题：我们从理论构建和理论检验两个维度介绍一个反映实证文献理论贡献的分类法。
+
+- 现实痛点/理论缺口：尽管有多种因素可以解释这一趋势，但一个可能的原因是实证文章缺乏充分描述一个理论(大麦, 2006)要素所需的空间。考虑到这一局限性，一篇实证文章究竟意味着什么，才能做出理论上的贡献。
+
+- 作者要“解决”的具体点：我们的研究目的有三。首先，我们创建了一个分类法，可以用来捕捉实证文章理论贡献的许多方面。这种分类包括两个维度：一篇文章构建新理论的程度和一篇文章检验现有理论的程度。其次，我们使用该分类法来检查理论贡献随时间的变化趋势，以查看当代管理文章提供的贡献是否不同于几十年前管理文章提供的贡献。第三，我们检验了一篇文章在分类学上的位置是否能预测文章对文献的影响，正如使用引用率来判断一样。
+
+- 具体问题：：( 1 )实证文章中的理论构建水平是如何随着时间变化的。( 2 )实证文章的理论检验水平如何随时间变化。( 3 )这些趋势对实证文章的学术影响有何影响。
+
+## 2. 创新点
+
+- 理论创新：
+
+- 方法/识别创新：
+
+- 数据/场景创新：
+
+- 结论或视角创新：
+
+## 3. 核心结论
+
+- 主要发现（用 3–5 条要点写清楚）：
+
+- 基于74期《管理学会杂志》样本数据的研究结果表明，理论构建和检验随着时间的推移呈上升趋势。此外，文章内部的理论构建和测试水平是被引率的重要预测因素。特别是，在这两个维度上被评为中等至高等的文章具有最高的被引频次。
+
+  - AMJ 文章的理论建构和理论检验都在上升（平均值）
+
+  - Reporters 变少，Qualifiers 和 Expanders 变多。（趋势检验）早期很多文章只是报告发现或重复检验；后来越来越多文章既要接续已有理论，又要提出新变量、新边界、新关系。
+
+  - 理论建构和理论检验都能提高引用量。（回归分析+控制了年份影响）一篇论文如果更会“提出新东西”，更容易被引用；如果更会“连接和检验已有理论”，也更容易被引用。这两个不是零和关系。不是说理论建构强，理论检验就一定弱；好的文章可以两者兼具。
+
+  - 五类文章中，Qualifiers 和 Expanders 最有影响力（把五类文章拿来比较引用量次数）
+
+## 4. 整体框架
+
+- 论文结构（Section-by-section 速记）：
+
+给工具-论文如何随着时间的推移而演变
+
+- 理论框架图/逻辑链条（文字描述即可）：
+
+给出获实证文章理论贡献的工具：
+
+- 记者定义为理论建构和理论检验水平都相对较低的经验性文章
+
+- 测试人员被定义为包含高水平理论测试但低水平理论构建的经验性文章
+
+- 资格者被定义为包含理论检验和理论构建的适度水平的经验性文章。这类文章使用根植于现有文献的概念性论据对先前建立的关系或过程进行定性。
+
+- 我们将建设者定义为理论构建相对较高但理论检验相对较低的文章。构建者包括聚焦于新构念、关系或过程的归纳研究。
+
+- 拓展者是在理论构建和理论检验中都占比较高的文章。像建设者一样，扩展者专注于结构、关系或过程，而不是事先理论化的主题，但他们在测试一些现有理论的同时进行了这种检查。
+
+## 5. 理论背景
+
+- 关键理论与概念：
+
+- 与既有文献的关系（补充/挑战/整合）：
+
+- 关键假设/命题（H1/H2… 如适用）：
+
+## 6. 数据方法
+
+- 数据来源：管理学院期刊是研究这些问题的理想场所，主要原因有四个。首先，期刊( 1958年至2007年)的五十年寿命为检验理论检验和理论构建的趋势提供了一个延长的时间框架。其次，AMJ是一份"大帐篷"期刊，刊登与管理学院各分部相关的文章，其刊登的微观和宏观文章( Biehl , Kim , & Wade , 2006 ;施明克& Mitchell , 2003 ;怀斯曼&斯基尔顿, 1999)数量大致相当。第三，从最近的期刊引证研究( Podsakoff , Mac Kenzie ,巴赫拉赫, & Podsakoff , 2005)来看，AMJ是管理学领域最具影响力的期刊之一。 第四，AMJ在其存续期间一直强调理论贡献问题，其编辑经常使用"供稿人参考"和"来自编辑"部分来描述他们对理论(例如, Beyer , 1985 ;伊登, 2004 ; Tsui , 1999)的期望。
+
+- 研究设计
+
+- 数据取自1963年至2007年间发表的AMJ文章，不是每一年都编码，而是选取每隔三年的一个完整卷。
+
+- 分类法：图1介绍了一个分类法，它结合了实证文章理论贡献的两个组成部分：理论构建和理论检验。正如图中的弧线所示，我们建议，一篇实证文章可以通过在理论构建中强大，在理论测试中强大，或者在两者中都强大来提供强大的理论贡献。 我们还建议可以利用这两个成分将经验性文章分为五个独立的类别，我们称之为报告者，测试者，限定词，建设者和扩展者。建设者、测试者和扩展者的理论贡献较高，而报道者和限定词的理论贡献较低。
+
+- 编码（编码后打分figure1标准，还可以打半分）
+
+- 我们的编码涵盖了期刊每三卷的所有问题。 由于AMJ的每位编辑任期为3年，因此我们的编码包含了从Dalton麦克法兰( 1961 - 63年)开始，到Sara Rynes ( 200507年)结束的每一个编辑任期的问题。我们将2007年的前五个问题纳入了我们的审查，以尽可能使其具有现实性。样本共计16卷，75期，770篇，(直到1991年, AMJ卷共4期, 1992年增至5期, 1993年开始增至6期)。在这770篇文章中，667篇是经验性文章，可以编码为理论构建和测试。其余103篇为方法类文章、专题研究论坛介绍和概念性文章。
+
+编码过程：
+
+两个作者先共同编码了 1983 年卷的 50 篇实证文章，用来检查一致性。
+
+除了给文章打分，作者还收集了：
+
+- 每篇文章的引用次数，来自 SSCI；
+
+- AMJ 各时期的投稿指南；
+
+- AMJ 的编辑说明；
+
+- 一些核心微观理论和宏观理论在 AMJ 中出现的频率；
+
+- AMJ 中引入的新构念。
+
+其他分析方法：
 
 ## 5. Notion 评论
 
@@ -68,15 +161,15 @@ This study contributes to our understanding of the mediating and moderating proc
 
 ---
 
-# 2. 公共研究资助中的配置效率：文献计量学能否提供帮助？
+# 2. 管理领域研究中的方法论契合度
 
 ## 1. 基本信息
 
-- **作者**：Giovanni Abramo; Ciriaco Andrea D’Angelo; Alessandro Caprasecca
-- **年份**：2009
-- **来源**：Research Policy
-- **DOI**：10.1016/j.respol.2008.11.001
-- **Notion 链接**：https://app.notion.com/p/Allocative-efficiency-in-public-research-funding-Can-bibliometrics-help-38be8c8a654d81ee87ecf054b8ee4a43
+- **作者**：Amy C. Edmondson; Stacy E. Mcmanus
+- **年份**：2007
+- **来源**：Academy of Management Review
+- **DOI**：10.5465/amr.2007.26586086
+- **Notion 链接**：https://app.notion.com/p/Methodological-fit-in-management-field-research-395e8c8a654d81b69d3cce24cb21dc3a
 
 ## 2. 分类信息
 
@@ -87,21 +180,113 @@ This study contributes to our understanding of the mediating and moderating proc
 
 ## 3. 摘要
 
-**中文题名**：公共研究资助中的配置效率：文献计量学能否提供帮助？
+**中文题名**：管理领域研究中的方法论契合度
 
-**英文题名**：Allocative efficiency in public research funding: Can bibliometrics help?
+**英文题名**：Methodological fit in management field research
 
 ### 中文摘要
 
-研究评价活动中成果控制模式的使用日益频繁。它们被构想为旨在促进研究生产力水平提高，并指导公共资助机构政府研究预算组成部分配置选择的工具。文献中已有若干研究比较了政策制定者可在此类评价活动中采用的不同方法路径，然而这些比较仅限于少数学科。本文考察意大利学术体系中整个“硬科学”领域的案例，比较了同行评议式评价（如大学与研究部所采用）所得结果与文献计量方法（由作者开发）可能获得的结果。其目的在于理解文献计量方法在多大程度上能够补充并整合同行评议方法用于研究评价；该方法被认为相对低成本、省时且覆盖全面。
+（空）
 
 ### 原文摘要
 
-The use of outcome control modes of research evaluation exercises is ever more frequent. They are conceived as tools to stimulate increased levels of research productivity, and to guide choices in allocating components of government research budgets for publicly funded institutions. There are several contributions in the literature that compare the different methodological approaches that policy makers could adopt for these exercises, however the comparisons are limited to only a few disciplines. This work, examining the case of the whole of the “hard sciences” of the Italian academic system, makes a comparison between results obtained from peer review type of evaluations (as adopted by the Ministry of Universities and Research) and those possible from a bibliometric approach (as developed by the authors). The aim is to understand to what extent bibliometric methodology, which is noted as relatively inexpensive, time-saving and exhaustive, can complement and integrate peer review methodology in research evaluation.
+（空）
 
 ## 4. Notion 正文笔记
 
-（空）
+## 0. 文献名称
+
+- Methodological fit in management field research
+
+## 1. 研究问题（Research Question）
+
+- 核心研究问题：方法匹配作为组织高质量实地研究的隐性价值属性，在管理学文献中很少受到关注。引入了一个权变框架，将先前的工作与研究项目的设计联系起来，特别关注在一篇研究论文中何时混合定性和定量数据的问题
+
+- 研究动机/现实背景：
+
+- 为了推进管理理论的发展，越来越多的学者从事实地研究，研究现实的人、现实的问题、现实的组织。虽然实地研究的潜在相关性是令人鼓舞的，但研究旅程可能是混乱和低效的，充满了逻辑障碍和意想不到的事件。研究人员管理与网站的复杂关系，应对样本选择和数据收集时间的限制，并经常面临项目中期对计划研究设计的更改。伴随着这些额外的挑战，研究设计的逻辑以及它如何支持特定理论贡献的发展可以在实地研究的道路上被模糊或改变。
+
+- 虽然基于顶尖学术期刊的实地研究的文章通常表现出高度的方法论契合度，但确保这种契合度的指南并不容易获得。除了观察到定性数据适合于研究不被很好理解的( e.g. , Barley , 1990 , Bouchard , 1976 ,艾森哈特, 1989a)现象之外，理论贡献类型和实地研究类型之间的关系很少得到明确的关注。 特别是，混合了定性和定量数据的混合方法在实地研究中最有帮助的条件- -这是本文关注的一个中心问题- -并没有得到广泛的认可。
+
+- 研究贡献（作者声称）：帮助新的领域研究人员发展和提高他们在领域研究中整合理论和方法的能力提供指导。因为其中一个关键的方面是预测和检测在拟合度较低的情况下出现的问题的能力，所以我们的讨论对这些问题进行了探索和分类。 第二个目的是建议通过迭代学习过程来创建领域研究中的方法契合，该过程需要一种思维模式，其中反馈、反思和修改被视为有价值的活动，并讨论这对培养新的领域研究人员的意义。
+
+## 2. 理论（Theory）
+
+- 理论视角/核心机制：methodological fit（方法匹配）
+
+- 关键假设/命题（可列 H1/H2…）：
+
+- 回顾的经验还强调，缺乏方法论的契合在他人的实地研究中比在自己的研究中更容易辨别。这促使我们开发一个正式的框架，以帮助研究人员在研究旅程中更早地发现在自己的领域研究中不适合的领域，而不等待外部的审查。
+
+- 基于上述来源，我们归纳出了本文提出的框架，并沿途进行了修订，由彼此以及同事和评论者的推动，既近又远。在探索方法论的契合性时，我们特别关注当前理论的状态如何塑造一个领域研究项目的其他要素。
+
+- 为了说明问题的清晰性和不同方法之间的比较，我们将所讨论的研究项目的实质性主题限定在一个领域- -组织工作团队。
+
+- 在接下来的部分中，我们表明，产生方法上的契合取决于研究设计和执行时相关理论的状态。我们将先验理论的状态作为在实地研究中实现方法论契合的起点，因为它是一个给定的、合理固定的背景，在这个背景下，新的研究得以发展：它是研究者无法控制的(也就是说,现有的理论发展状态无法修改以适应当前的研究项目)的一个要素。
+
+- 主要理论对话对象（与谁争论/补充）：
+
+## 3.创新点以及研究贡献（Gap/Contribution）
+
+- 既有研究卡点过去常说“方法要服务问题”，但缺少具体判断：什么样的理论状态适合什么样的问题、数据、分析和贡献。
+
+- 把“方法选择”从技术偏好问题，转化为“理论成熟度与研究贡献类型是否匹配”的结构性问题。
+
+- 重点可借鉴：这篇文章很适合作为“论文设计诊断工具”来用。以后读一篇管理学论文，可以直接问四个问题：
+
+1. 这个问题所在领域是初生、中间还是成熟？
+
+1. 作者的问题开放程度和理论状态匹配吗？
+
+1. 数据类型、分析方法和它要做的贡献匹配吗？
+
+1. 如果不匹配，是可以通过重写问题修复，还是必须补数据/换方法？
+
+这篇文献的真正训练价值在于：它教你不要先问“我要用什么方法”，而是先问“我的理论问题成熟到什么程度，我能做出哪一种贡献”。
+
+## 4. 数据与方法（Data & Methods）未使用
+
+- 数据来源：
+
+- 样本范围与规模：
+
+- 研究设计（实验/准实验/调查/案例/文本/面板等）：
+
+- 主要估计方法/统计模型（简述）：
+
+## 5. 未来研究机会：
+
+- 1.审稿人如何使用fit判断论文质量（分析匿名评审意见或访谈编辑）
+
+- 2.显性教授 methodological fit 是否提升研究设计质量？
+
+- 3.AI 能否帮助研究者发现研究问题、方法和贡献之间的不匹配？
+
+## 6. 核心结论
+
+表1:实地研究项目的四个关键要素：
+
+研究问题：聚焦研究/将主题范围缩小到有意义的、可管理的大小/解决具有理论和实践意义的问题/指向一个可行的研究项目- - -即可以回答的问题。
+
+前置工作：文献现状/现有的与本研究主题相关的理论和实证研究论文/有助于识别未回答的问题、未探索的领域、相关的构念和一致性低的领域。
+
+研究设计：要收集的数据类型/数据收集工具和程序/计划的分析类型//寻找/选择收集数据的站点。
+
+理论贡献：作为研究结果而发展的理/挑战传统智慧的新观点，挑战先前的假设，整合先前的研究以产生新的模型，或改进对现象的理解/从研究结果中得出的任何实际见解，可能由研究人员提出。
+
+表2
+
+表6
+
+核心结论：
+
+随着一个理论领域越来越成熟，研究者之间的共识越来越多，最重要的贡献是仔细指定了理论模型和定量测试。
+
+相反，对组织文献中的某一现象所知越少，探索性的定性研究就越有可能是一种富有成效的策略。
+
+在中间，定性和定量数据的混合使用既可以开发新的结构，又可以有力地证明新关系的合理性。
+
+把既有理论状态分为三类：
 
 ## 5. Notion 评论
 
@@ -117,175 +302,28 @@ The use of outcome control modes of research evaluation exercises is ever more f
 
 ---
 
-# 3. 消费者对市场全球化的态度：结构、前因与后果
+# 3. 从案例研究中构建理论
 
 ## 1. 基本信息
 
-- **作者**：Dana L. Alden; Jan-Benedict E.M. Steenkamp; Rajeev Batra
-- **年份**：2006
-- **来源**：International Journal of Research in Marketing
-- **DOI**：10.1016/j.ijresmar.2006.01.010
-- **Notion 链接**：https://app.notion.com/p/Consumer-attitudes-toward-marketplace-globalization-Structure-antecedents-and-consequences-38be8c8a654d8181b104dba51bded1a6
-
-## 2. 分类信息
-
-- **主题**：to-notion
-- **用途**：
-- **对应章节**：
-- **优先级**：
-
-## 3. 摘要
-
-**中文题名**：消费者对市场全球化的态度：结构、前因与后果
-
-**英文题名**：Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences
-
-### 中文摘要
-
-本研究考察了一项衡量消费者对市场全球化所带来的消费替代选择之态度的新指标，与若干态度前因（物质主义、规范性影响易感性和消费者民族中心主义）以及这些态度的一个假设后果——对全球品牌的偏好——之间的关系。在韩国、美国和中国三个文化差异显著的市场中对该新指标进行验证后，研究在韩国检验了所假设的前因与后果。实证结果总体支持研究假设，并为未来关于市场全球化的研究提供了重要启示。
-
-### 原文摘要
-
-This study examines relationships between a new measure of consumer attitudes toward consumption alternatives resulting from market globalization, several attitudinal antecedents (materialism, susceptibility to normative influence and consumer ethnocentrism), and a hypothesized consequence of these attitudes — preference for global brands. Following validation of the new measure in three culturally distinct markets, South Korea, the US, and China, the hypothesized antecedents and consequence are tested in South Korea. Empirical findings broadly support hypotheses and provide important implications for future research on market globalization.
-
-## 4. Notion 正文笔记
-
-（空）
-
-## 5. Notion 评论
-
-（空）
-
-## 6. 可支持论点
-
-（空）
-
-## 7. 我的评价
-
-（空）
-
----
-
-# 4. 品牌关系谱系：品牌架构挑战的关键
-
-## 1. 基本信息
-
-- **作者**：David A. Aaker; Erich Joachimsthaler
-- **年份**：2000
-- **来源**：California Management Review
-- **DOI**：10.1177/000812560004200401
-- **Notion 链接**：https://app.notion.com/p/The-Brand-Relationship-Spectrum-The-Key-to-the-Brand-Architecture-Challenge-38be8c8a654d81bc87b3c0d49f35522c
-
-## 2. 分类信息
-
-- **主题**：to-notion
-- **用途**：概念定义
-- **对应章节**：研究方法
-- **优先级**：
-
-## 3. 摘要
-
-**中文题名**：品牌关系谱系：品牌架构挑战的关键
-
-**英文题名**：The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge
-
-### 中文摘要
-
-（空）
-
-### 原文摘要
-
-（空）
-
-## 4. Notion 正文笔记
-
-（空）
-
-## 5. Notion 评论
-
-（空）
-
-## 6. 可支持论点
-
-（空）
-
-## 7. 我的评价
-
-（空）
-
----
-
-# 5. 跨产品与市场的品牌资产测量
-
-## 1. 基本信息
-
-- **作者**：David A. Aaker
-- **年份**：1996
-- **来源**：California Management Review
-- **DOI**：10.2307/41165845
-- **Notion 链接**：https://app.notion.com/p/Measuring-Brand-Equity-Across-Products-and-Markets-38be8c8a654d81a2b11cf39eb2afaab8
-
-## 2. 分类信息
-
-- **主题**：to-notion
-- **用途**：机制解释
-- **对应章节**：理论基础
-- **优先级**：
-
-## 3. 摘要
-
-**中文题名**：跨产品与市场的品牌资产测量
-
-**英文题名**：Measuring Brand Equity Across Products and Markets
-
-### 中文摘要
-
-（空）
-
-### 原文摘要
-
-（空）
-
-## 4. Notion 正文笔记
-
-（空）
-
-## 5. Notion 评论
-
-（空）
-
-## 6. 可支持论点
-
-（空）
-
-## 7. 我的评价
-
-（空）
-
----
-
-# 6. 利用企业品牌
-
-## 1. 基本信息
-
-- **作者**：David A Aaker
+- **作者**：Kathleen M Eisenhardt
 - **年份**：
 - **来源**：
 - **DOI**：
-- **Notion 链接**：https://app.notion.com/p/Leveraging-the-Corporate-Brand-38be8c8a654d815fbed4f3c2c82d9e0b
+- **Notion 链接**：https://app.notion.com/p/Building-Theories-from-Case-Study-Research-395e8c8a654d814f96e6f7022871fd51
 
 ## 2. 分类信息
 
 - **主题**：to-notion
-- **用途**：概念定义
-- **对应章节**：文献综述
+- **用途**：
+- **对应章节**：
 - **优先级**：
 
 ## 3. 摘要
 
-**中文题名**：利用企业品牌
+**中文题名**：从案例研究中构建理论
 
-**英文题名**：Leveraging the Corporate Brand
+**英文题名**：Building Theories from Case Study Research
 
 ### 中文摘要
 
@@ -297,20 +335,196 @@ This study examines relationships between a new measure of consumer attitudes to
 
 ## 4. Notion 正文笔记
 
-你好再见
+## 0. 文献名称
 
-as i was a child ,i would like to become a superstar.therefore, i only get a doll from my parents.
+- Building Theories from Case  Study Research
+
+## 1. 研究并解决的问题
+
+- 研究问题：本文描述了运用案例研究进行理论归纳的过程- -从明确研究问题到得出研究结论。该过程的一些特征，如问题界定、构念验证等，与假设检验研究有相似之处。另外一些，如案例内分析和复制逻辑，是归纳的、面向案例的过程所特有的。总的来说，这里描述的过程是高度迭代的，并且与数据紧密相连。这种研究方法在新的主题领域尤其适用。由此产生的理论往往是新颖的、可检验的和经验有效的。最后，卢德分子的洞见、(例如,简约性、逻辑连贯性)的良好理论的检验以及证据中的令人信服的基础是评价这类研究的关键标准。
+
+## 2. 创新点
+
+- 理论创新：
+
+- 方法/识别创新：
+
+- 数据/场景创新：
+
+- 结论或视角创新：
+
+## 3. 核心结论
+
+- 主要发现（用 3–5 条要点写清楚）：
+
+- 本文试图在文学方面做出两点贡献。首先是从案例研究中构建理论的路线图。该路线图综合了先前关于定性方法( e. g . , Miles &休伯曼,1984)、案例研究设计( e.g. , Yin , 1981 , 532 1984)和扎根理论构建( e. g . , Glaser & Strauss , 1967)的工作，并扩展了该工作在诸如构念的先验规范、多调查者的三角关系、案例内和跨案例分析以及现有文献的作用等领域的工作。
+
+  - 第二个贡献是将定位理论的构建从案例研究纳入到社会科学研究的大背景中。
+
+- 机制结论（如果有）：
+
+- 边界条件/异质性结论（如果有）：
+
+## 4. 整体框架
+
+- 论文结构（Section-by-section 速记）：
+
+研究问题 → 选择案例 → 多源资料收集 → 边收边分析 → 案例内分析 → 跨案例比较 → 形成构念和关系 → 回到数据验证 → 回到文献定位 → 理论饱和后停止。
+
+- 理论框架图/逻辑链条（文字描述即可）：
+
+- getting started：因此，研究者应该提出一个研究问题，并可能指定一些潜在的重要变量，同时参考现有文献。然而，他们应该尽可能地避免思考变量和理论之间的具体关系，尤其是在过程的开始阶段。
+
+- selecting cases：选择适当的群体控制了无关的变异，并有助于确定将研究结果概括的界限。
+
+- 然而，在从案例研究中构建理论时，从所选择的人群中抽样案例是不寻常的。这样的研究依赖于理论抽样( Glaser & Strauss ( 1967 )认为,选择案例的原因是理论的,而不是统计的)。案例可以被选择用来复制先前的案例或扩展突现理论，也可以被选择用来填充理论范畴和提供极性类型的例子
+
+- Crafting Instruments and Protocols：多种数据收集方法所形成的三角验证为构念和假设提供了更强的证据支持。定量证据可以表明对研究人员来说可能不重要的关系。它还可以使研究人员不被定性数据中生动但虚假的印象所带走，并且当它证实了定性证据的发现时，它可以支持这些发现。 定性数据有助于理解定量数据中揭示的理论基础或潜在的理论关系，或可以直接提出理论，这些理论可以通过定量支持( Jick , 1979)得到加强。
+
+- Entering the Field：从案例研究中构建理论的研究的一个显著特点是数据分析与数据收集的频繁重叠。
+
+- Analyzing Within-Case Data：案例内分析通常涉及对每个站点进行详细的案例研究记录。
+
+- Searching for Cross-Case Patterns：良好的跨案例比较的关键是通过以许多不同的方式看待数据来抵消这些趋势。
+
+- 一种策略是选择类别或维度，然后寻找组内相似性和组间差异。维度可以由研究问题或现有文献提出。
+
+- 第二种策略是选择成对的案例，然后列出每对案例之间的异同。这种策略迫使研究者去寻找540个案例之间的细微异同。寻找差异的研究者将看似相似的案例并置，可以打破简单化的框架。同样，在看似不同的一对中寻找相似性也可以导致更精细的理解。 然而，这种成对比较的过程让研究者看到，决策过程的速度同样重要(艾森哈特,在报界)。最后，这种策略的延伸是将案例分组为三四个进行比较。
+
+- 第三种策略是将数据按数据源进行划分。这种策略利用了从不同类型的数据收集中可能获得的独特见解。当来自一个数据源的模式被来自另一个数据源的证据所证实时，发现就更强，更有根据。当证据发生冲突时，研究者有时可以通过更深层次的探索差异的意义来调和证据。
+
+- Shaping Hypotheses：从场内分析，再加上各种跨场策略和整体印象，试探性的主题、概念，甚至变量之间的关系开始出现。这个高度迭代过程的下一步是将涌现框架与来自每个案例的证据进行系统比较，以评估其与案例数据的拟合程度。其中心思想是研究者不断地进行理论和数据的比较- -迭代出一个与数据紧密贴合的理论。形成假设的一个步骤是对构念的磨砺。 这是一个两部分的过程，包括( 1 )细化构念的定义和( 2 )在每个案件中建立衡量构念的证据。这是在数据和结构之间不断比较的过程中发生的，从而使来自不同来源的积累证据收敛于一个定义良好的单一结构。
+
+- 定性数据对于理解为什么或为什么不存在涌现关系特别有用。当关系得到支持时，定性数据往往能很好地理解关系背后的动态，即正在发生的事情的"为什么"。这对于内部有效性的建立至关重要。
+
+- Enfolding Literature：理论构建的一个重要特征是将涌现的概念、理论或假设与现有文献进行比较。讨论类似发现的文献也很重要，因为它将通常互不相关的现象中潜在的相似之处联系在一起。其结果往往是一种内在有效性更强、概括性更广、概念层次更高的理论。
+
+- Reaching Closure：何时停止添加案例，何时停止理论与数据之间的迭代。首先，理想情况下，研究人员应该在达到理论饱和时停止添加案例。/最后，虽然没有理想的案例数量，但数量在4到10之间的案例通常效果良好。
+
+## 5. 理论背景
+
+- 关键理论与概念：
+
+- 与既有文献的关系（补充/挑战/整合）：
+
+- 关键假设/命题（H1/H2… 如适用）：
+
+## 6. 数据方法
+
+- 数据来源：
+
+- 样本范围与规模：
+
+- 研究设计（实验/准实验/调查/案例/文本/面板等）：
+
+- 变量构造与数据处理要点：
+
+## 7. 模型
+
+- 基本模型/经验设定（文字或公式）：
+
+- 关键设定（固定效应、聚类标准误、控制变量等）：
+
+## 8. 核心变量
+
+- 因变量（DV）：定义 + 测量
+
+- 自变量（IV）：定义 + 测量
+
+- 中介/机制变量：
+
+- 调节变量：
+
+- 控制变量：
+
+## 9. 识别逻辑
+
+- 识别思路：为什么能识别因果/机制？
+
+- 关键识别假设：
+
+- 潜在威胁与作者回应：
+
+## 10. 稳健性
+
+- 稳健性检验清单（逐条记录）：
+
+- 替代指标/替代样本：
+
+- Placebo/伪检验：
+
+- 其他有效性检验：
+
+## 11. 不足
+
+- 理论不足：
+
+- 数据与方法不足：
+
+- 外部有效性/边界条件：
+
+- 我认为更致命的识别风险（如有）：
+
+## 12. 可借鉴以及延伸的点
+
+- 可借鉴的理论表述/机制：
+
+案例研究可能失效的场景：
+
+1. 如果研究问题已经高度成熟，案例研究可能只是在重复已有理论，不适合再用归纳式案例建构理论。
+
+1. 如果案例数量过少且没有嵌入式小案例，理论基础会显得薄弱。
+
+1. 如果案例太多，资料复杂度会失控，理论可能变得混乱。
+
+1. 如果研究者过早套用已有理论，就会失去归纳发现新机制的能力。
+
+1. 如果只展示结论、不展示证据表和分析过程，读者无法判断理论是否真的来自数据。
+
+1. 如果研究者只寻找支持性证据，不处理反例，内部效度会很弱。
+
+1. 如果理论停留在个案细节，无法提升到更一般的构念或机制，贡献会太窄。
+
+- 可借鉴的变量/测量：
+
+- 可借鉴的识别策略/方法：
+
+- 可借鉴的写作结构/图表：
+
+- 可延伸的研究问题（我可以怎么做）：
+
+如果你以后要写案例研究，可以用这篇文章反推自己的研究设计：
+
+1. 我的研究问题是不是足够聚焦，但又没有过早锁定假设？
+
+1. 我的案例是不是理论抽样，而不是随便找来的方便样本？
+
+1. 我有没有说明为什么选这些案例？
+
+1. 我有没有多种数据来源，比如访谈、档案、观察、问卷或二手资料？
+
+1. 我有没有先做案例内分析，再做跨案例比较？
+
+1. 我有没有用表格展示每个构念在每个案例中的证据？
+
+1. 我有没有处理不符合预期的案例？
+
+1. 我有没有说明这个理论与已有文献相似在哪里、冲突在哪里？
+
+1. 我有没有说明什么时候停止加案例和停止分析？
+
+1. 我的最终理论是新颖、可检验、简洁、逻辑一致，并且扎根于证据的吗？
 
 ## 5. Notion 评论
 
-- [2026-06-26T10:15:00.000Z | 2e7104cf-fe23-4c34-a5ff-664e8022cfc1] 很好的一篇文献
+（空）
 
 ## 6. 可支持论点
 
-53535353
+（空）
 
 ## 7. 我的评价
 
-98765
+（空）
 
 ---
