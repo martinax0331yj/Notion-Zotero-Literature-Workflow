@@ -362,6 +362,53 @@ notion-literature-tool/
 │   └── logger.py
 ```
 
+
+## 🌐 本地网页控制台
+
+现在可以用 Streamlit 本地网站替代终端命令和多个桌面 `.command` 按钮。新版页面已经改成单页式控制台，所有核心功能集中在一个页面里。
+
+页面包含：
+
+- 顶部 Hero 区：展示工作流名称、说明和本地状态标签；
+- Dashboard 指标卡：显示 Excel、Word、Markdown、日志和 GitHub 输出目录状态；
+- 工作流步骤卡：展示 Zotero 入库、Notion 诊断、翻译回写、材料包生成、APA / GB 引用、GitHub 归档；
+- 一键操作中心：用卡片运行 Zotero 导入、Notion 诊断、翻译、材料包生成、参考文献包和完整同步；
+- 运行日志区：显示最近一次操作状态，完整 stdout / stderr 放在可展开日志里；
+- 输出文件中心：浏览、预览和下载 `xlsx / docx / md / jsonl` 文件。
+
+启动方式：
+
+懒人版：
+
+```text
+双击桌面：启动文献工作流网站.command
+```
+
+终端版：
+
+```bash
+cd /Users/xueyeye/Documents/notion-literature-tool
+source .venv/bin/activate
+streamlit run web_app.py
+```
+
+如果第一次运行提示缺少依赖：
+
+```bash
+cd /Users/xueyeye/Documents/notion-literature-tool
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+安全注意事项：
+
+- 页面只作为本地个人工具使用；
+- 不建议公网部署，也不要把 Streamlit 服务暴露到公网；
+- 网页不会主动显示 `.env` 内容；
+- 运行日志会尽量遮盖 Notion Token、API Key 和代理地址；
+- 原有桌面 `.command` 按钮仍保留，可作为备用入口。
+
+
 ## 🖱️ 桌面一键运行：不用每次敲终端
 
 打 `to-notion` 标签不会自动导入。标签只是筛选条件，真正触发导入的是运行脚本或双击 `.command` 文件。
